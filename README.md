@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanzcu&label=Profile%20views&color=0e75b6&style=flat" alt="stefanzcu" /> </p>
 
-- 🔭 I’m currently working on **Programming Fundamentals with C#**
+- 🔭 I’m currently working on **Advanced Programming with C#**
 
 - 📫 How to reach me **stefan.r.zhivkov1@gmail.com**
 
