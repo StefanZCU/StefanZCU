@@ -18,8 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanzcu&show_icons=true&locale=en&layout=compact" alt="stefanzcu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanzcu&show_icons=true&locale=en" alt="stefanzcu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanzcu&" alt="stefanzcu" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanzcu&show_icons=true&theme=tokyonight&width=500&height=194)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/StefanZCU?theme=nord&width=500&height=194)](https://leetcode.com/StefanZCU)
