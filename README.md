@@ -20,5 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanzcu&" alt="stefanzcu" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanzcu&show_icons=true&theme=tokyonight&width=500&height=194)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/StefanZCU?theme=nord&width=500&height=194)](https://leetcode.com/StefanZCU)
