@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://www.codefactor.io/repository/github/stefanzcu/softuni-csharp/badge" /> </p>
 
-- 🔭 I’m currently working on **Advanced Programming with C#**
+- 🔭 I’m currently working on **JS Front-End**
 
 - 📫 How to reach me **stefan.r.zhivkov1@gmail.com**
 
