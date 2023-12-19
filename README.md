@@ -14,7 +14,7 @@
 <br>
 :man_technologist: <strong>About Me:<strong/>
 
-:telescope: I'm currently learning Entity Framework Core and Cyber Secuirty/Ethical Hacking.
+:telescope: I'm currently learning ASP.NET and Cyber Secuirty/Ethical Hacking.
 
 :zap: Motivated, hard-working, and disciplined.
 
